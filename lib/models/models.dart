@@ -1,0 +1,1 @@
+part 'comment_model.dart';
